@@ -17,6 +17,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta charSet="utf-8" />
+        <link rel="icon" href="/flex-favicon.ico" />
+      </head>
       <NextUIProvider>
         <body className={inter.className}>{children}</body>
       </NextUIProvider>
