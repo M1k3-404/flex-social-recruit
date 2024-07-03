@@ -25,7 +25,7 @@ export default function Page() {
 
                 <ScrollShadow hideScrollBar size={20} className="w-full h-[92%] pt-6">
                     <p className="sm:text-sm text-xs font-light text-justify mb-6">
-                        Applicants interested in this opportunity should begin by carefully reviewing the job specification to ensure a strong fit for their qualifications and experience. Once you have a thorough understanding of the role's requirements and responsibilities, please proceed to our application form. We encourage you to take your time completing the form and to provide detailed information relevant to the position.
+                        Applicants interested in this opportunity should begin by carefully reviewing the job specification to ensure a strong fit for their qualifications and experience. Once you have a thorough understanding of the role&apos;s requirements and responsibilities, please proceed to our application form. We encourage you to take your time completing the form and to provide detailed information relevant to the position.
                     </p>
                     <p className="font-medium">Interview Process</p>
                     <p className="text-sm font-light text-justify mb-6">
