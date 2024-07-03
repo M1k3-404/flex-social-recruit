@@ -1,5 +1,6 @@
 {
-  "compilerOptions": {
+  "compilerOptions": { // Choose an appropriate module option
+    "target": "es2017",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,

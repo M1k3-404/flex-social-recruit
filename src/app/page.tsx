@@ -28,9 +28,7 @@ export default function Home() {
             <p>Sri Lanka</p>
             <span>|</span>
             {/* change */}
-            <p>16 hours ago</p>
-            <span>|</span>
-            <p>51 applicants</p>
+            <p>04 Jul 2024</p>
           </div>
 
           <div className="flex justify-between items-end mt-8">
