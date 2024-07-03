@@ -55,11 +55,11 @@ export default function Home() {
         
         <ScrollShadow hideScrollBar size={20} className="w-full min-[1519px]:h-[60%] md:h-[70%] h-[60%] pt-4 overflow-y-auto">
           <p className="sm:text-sm text-xs font-light text-justify mb-6">
-            We're Flex Social, a forward-thinking startup that merges the power of human creativity with cutting-edge technology. We're more than just a social media agency; we're a full-service solution provider offering a comprehensive suite of services – from social media marketing to web development, enterprise software, and mobile app creation. We even specialize in developing innovative SaaS solutions and are experts in integrating AR technology to bring your brand to life in revolutionary ways.
+            We&apos;re Flex Social, a forward-thinking startup that merges the power of human creativity with cutting-edge technology. We&apos;re more than just a social media agency; we&apos;re a full-service solution provider offering a comprehensive suite of services – from social media marketing to web development, enterprise software, and mobile app creation. We even specialize in developing innovative SaaS solutions and are experts in integrating AR technology to bring your brand to life in revolutionary ways.
             <br /><br />
-            At Flex Social, we're passionate about bringing imagination to life with technology. We promote creativity in our fast-paced environment, where the latest trends and technologies are embraced to empower creative ideas. Collaboration is key, and we believe in fostering a supportive atmosphere where everyone's voice is valued. We thrive on open communication and believe in empowering individuals to take ownership of their projects.
+            At Flex Social, we&apos;re passionate about bringing imagination to life with technology. We promote creativity in our fast-paced environment, where the latest trends and technologies are embraced to empower creative ideas. Collaboration is key, and we believe in fostering a supportive atmosphere where everyone&apos;s voice is valued. We thrive on open communication and believe in empowering individuals to take ownership of their projects.
             <br /><br />
-            Joining Flex Social isn't just a job; it's an opportunity to be part of a passionate team that's redefining the way brands connect with their audience through the power of technology and creativity.
+            Joining Flex Social isn&apos;t just a job; it&apos;s an opportunity to be part of a passionate team that&apos;s redefining the way brands connect with their audience through the power of technology and creativity.
           </p>
           <p className="font-medium">Job Description</p>
           <p className="text-sm font-light text-justify mb-6">
@@ -79,9 +79,9 @@ export default function Home() {
           </ul>
 
           <p className="text-sm font-light text-justify mb-3">
-            As a Flex Social intern, you'll gain hands-on experience working with the latest AR, AI, and Blockchain technologies. You'll have the opportunity to contribute to real-world projects, collaborate with our talented team, and directly interact with clients, giving you a well-rounded understanding of the industry.
+            As a Flex Social intern, you&apos;ll gain hands-on experience working with the latest AR, AI, and Blockchain technologies. You&apos;ll have the opportunity to contribute to real-world projects, collaborate with our talented team, and directly interact with clients, giving you a well-rounded understanding of the industry.
             <br /><br />
-            We believe in creating a work environment that's flexible and supportive for our employees. Our roles ensure that flexibility to maintain a good work-life balance.
+            We believe in creating a work environment that&apos;s flexible and supportive for our employees. Our roles ensure that flexibility to maintain a good work-life balance.
           </p>
         </ScrollShadow>
       </div>
